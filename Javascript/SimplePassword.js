@@ -43,8 +43,8 @@ function SimplePassword(str) {
     return true; 
 }
 
-let string1 = "passWord123!!!!"; // Input: "passWord123!!!!"
-console.log(SimplePassword(string1)); // Output: false
+let string1 = "passWord123!!!!";
+console.log(SimplePassword(string1));
 
-let string2 = "turkey90AAA="; // Input: "turkey90AAA="
-console.log(SimplePassword(string2)); // Output: true
+let string2 = "turkey90AAA=";
+console.log(SimplePassword(string2));

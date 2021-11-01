@@ -37,9 +37,9 @@ function ArrayChallenge(strArr) {
   
 }
 
-let strArr1 = ["[5, 2, 3]", "[2, 2, 3, 10, 6]"]; // Input: ["[5, 2, 3]", "[2, 2, 3, 10, 6]"]
-console.log(ArrayChallenge(strArr1)) // Output: 7-4-6-10-6
+let strArr1 = ["[5, 2, 3]", "[2, 2, 3, 10, 6]"];
+console.log(ArrayChallenge(strArr1))
 
-let strArr2 = ["[1, 2, 1]", "[2, 1, 5, 2]"] // Input: ["[1, 2, 1]", "[2, 1, 5, 2]"]
-console.log(ArrayChallenge(strArr2)) // Output: 3-3-6-2
+let strArr2 = ["[1, 2, 1]", "[2, 1, 5, 2]"]
+console.log(ArrayChallenge(strArr2))
   
